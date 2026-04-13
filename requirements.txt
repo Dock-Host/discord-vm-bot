@@ -1,3 +1,4 @@
 discord.py>=2.4.0
 proxmoxer>=2.0.1
 python-dotenv>=1.0.1
+yt-dlp>=2026.1.1
